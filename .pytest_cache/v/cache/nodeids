@@ -1,0 +1,6 @@
+[
+  "tests/test_get_score.py::test_get_score_1",
+  "tests/test_get_score.py::test_get_score_2",
+  "tests/test_get_score.py::test_get_score_3",
+  "tests/test_get_score.py::test_get_score_4"
+]
